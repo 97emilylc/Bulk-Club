@@ -15,12 +15,10 @@
 
 
 
-LINKS ::
+LINKS : 
 
 - Download to use git commands in commandline -
 	http://git-scm.com/
-
-http://github.com/
 
 http://waffle.io/
 
