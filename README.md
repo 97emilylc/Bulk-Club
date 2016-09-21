@@ -2,11 +2,11 @@
 CS1C First Class Project
 
 *Ground Rules*
-1. C++ will be the official programming language
-2. QT will be the official IDE and compiler
-3. Github will be the used as the online repository
-4. Waffle.io will be the agile management tool
-5. Discord will be the main communication meduim
+- 1.  C++ will be the official programming language
+- 2.  QT will be the official IDE and compiler
+- 3.  Github will be the used as the online repository
+- 4.  Waffle.io will be the agile management tool
+- 5.  Discord will be the main communication meduim
 
 -----
 
