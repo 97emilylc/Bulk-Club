@@ -20,6 +20,6 @@ _Don't forget about the [Waffle](https://waffle.io/)!_
 
 **Installs :**
  * [Use Github in CMD](http://git-scm.com/)
- * [QT Install]((http://www.qt.io/download-open-source/#section-2)
+ * [QT Install](http://www.qt.io/download-open-source/#section-2)
     * Version : *Qt 5.7.0 for Windows 32-bit (MinGW 5.3.0, 1.1 GB)*
  * [Discord](https://discordapp.com/)
