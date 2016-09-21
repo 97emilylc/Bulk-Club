@@ -10,7 +10,7 @@ CS1C First Class Project
 
 -----
 
-_Don't forget about the [Waffle](https://waffle.io/)! _**
+_Don't forget about the _** [Waffle](https://waffle.io/)!
 
 **Useful Links :**
  * [Gitbub Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
