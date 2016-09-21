@@ -13,7 +13,7 @@ CS1C First Class Project
 _Don't forget about the [Waffle](https://waffle.io/)!_
 
 **Useful Links :**
- * [Gitbub Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [Github Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [QT Tutorial 1](https://www.comp.nus.edu.sg/~cs3249/lecture/befinning%20Qt.pdf)
  * [QT Wiki](https://wiki.qt.io/Qt_for_Beginners)
  * [Our Discord Channel](https://discord.gg/H6k8D)
