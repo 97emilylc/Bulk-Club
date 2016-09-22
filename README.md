@@ -16,7 +16,7 @@ _Don't forget about the [Waffle](https://waffle.io/)!_
  * [Github Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [QT Tutorial 1](https://www.comp.nus.edu.sg/~cs3249/lecture/befinning%20Qt.pdf)
  * [QT Wiki](https://wiki.qt.io/Qt_for_Beginners)
- * [Our Discord Channel](https://discord.gg/H6k8D)
+ * [Our Discord Channel](https://discord.gg/VtDFm)
 
 **Installs :**
  * [Use Github in CMD](http://git-scm.com/)
