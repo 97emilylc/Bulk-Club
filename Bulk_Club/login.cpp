@@ -17,46 +17,31 @@ Login::~Login()
 
 void Login::ClickSubmit()
 {
-    QString usernameKey = ui->boxUsername->text();
-    QString passwordKey = ui->boxPassword->text();
-    QString username;
-    QString password;
+    QString usernameKey;
+    QString passwordKey;
+    QString username = "hello";
+    QString password = "hello";
 
     QFile acntFile("accounts.txt");
     bool correct = false;
-    bool lost = true;
 
     acntFile.open(QIODevice::ReadOnly);
 
-    while(!acntFile.atEnd() && lost)
+    usernameKey = ui->boxUsername->text();
+    passwordKey = ui->boxPassword->text();
+
+    if(username == usernameKey && password == passwordKey)
     {
-        // get username line
-
-        if(username == usernameKey)
-        {
-            // get password line
-            lost = false;
-
-            if(password == passwordKey)
-            {
-                ui->loginErrorLabel->setText("Logging in...");
-                // get account type
-                correct = true;
-            }
-            else
-            {
-                ui->loginErrorLabel->setText("Invalid username or password.");
-            }
-        }
-        else
-        {
-            // ignore password line
-            // ignore account type
-        }
+        ui->loginErrorLabel->setText("Logging in...");
+        correct = true;
     }
-
-    if(lost)
+    else
     {
         ui->loginErrorLabel->setText("Invalid username or password.");
+    }
+
+    if(correct)
+    {
+        close();
     }
 }
