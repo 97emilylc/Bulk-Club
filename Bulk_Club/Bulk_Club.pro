@@ -13,11 +13,14 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        login.cpp
+        login.cpp \
+    display.cpp
 
-HEADERS  += login.h
+HEADERS  += login.h \
+    display.h
 
-FORMS    += login.ui
+FORMS    += login.ui \
+    display.ui
 
 DISTFILES += \
     accounts.txt
